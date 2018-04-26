@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  L3.cpp
+c:\users\hate\source\repos\l3\l3\l3.cpp(55): warning C4101: m: неиспользованная локальная переменная
+  L3.vcxproj -> C:\Users\Hate\source\repos\L3\Debug\L3.exe
